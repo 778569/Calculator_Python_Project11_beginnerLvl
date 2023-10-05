@@ -1,4 +1,4 @@
-![Screenshot (509)](https://github.com/778569/Calculator_Python_Project11_beginnerLvl/assets/52319671/96dc38d0-42d0-4ac7-91b1-6fefd222d59d)# Calculator_Python_Project11_beginnerLvl
+# Calculator_Python_Project11_beginnerLvl
 A Python calculator is a software program or script written in the Python programming language that performs mathematical calculations. It allows users to input mathematical expressions or numbers and then computes the results of those expressions. Here are some key features and components of a typical Python calculator.
 
 # Calculator
